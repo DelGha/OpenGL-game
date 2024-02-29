@@ -1,0 +1,58 @@
+# Blender MTL File: 'House_Lil.blend'
+# Material Count: 4
+
+newmtl House_Lil
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd House_Lil_Color_2K.tga.png
+map_Bump House_Lil_Normal_2K.tga.png
+map_Ns House_Lil_Roughness_2K.tga.png
+map_Ni House_Lil_Occlusion_2K.tga.png
+map_d House_Lil_Opacity_2K.tga.png
+
+newmtl Leak_Decal
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Leak_Decal_Color.tga.png
+map_Ns Leak_Decal_Roughness.tga.png
+map_d Leak_Decal_Opacity.tga.png
+
+newmtl Poor_Door
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Door_Poor_Color.tga.png
+map_Bump Door_Poor_Normal.tga.png
+map_Ns Door_Poor_Roughness.tga.png
+map_Ni Door_Poor_Occlusion.tga.png
+
+newmtl Window_Poor
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Window_Poor_Color.tga.png
+map_Bump Window_Poor_Normal.tga.png
+map_Ns Window_Poor_Roughness.tga.png
+map_Ni Window_Poor_Occlusion.tga.png

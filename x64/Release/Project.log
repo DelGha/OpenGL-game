@@ -1,0 +1,53 @@
+﻿  main.cpp
+C:\Users\Sebas\OneDrive\Desktop\GP\Project_Core\Project\main.cpp(465,23): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+C:\Users\Sebas\OneDrive\Desktop\GP\Project_Core\Project\main.cpp(465,9): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+C:\Users\Sebas\OneDrive\Desktop\GP\Project_Core\Project\main.cpp(489,52): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+C:\Users\Sebas\OneDrive\Desktop\GP\Project_Core\Project\main.cpp(518,33): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\Sebas\OneDrive\Desktop\GP\Project_Core\Project\main.cpp(517,33): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\Sebas\OneDrive\Desktop\GP\Project_Core\Project\main.cpp(516,33): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\Sebas\OneDrive\Desktop\GP\Project_Core\Project\main.cpp(546,33): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\Sebas\OneDrive\Desktop\GP\Project_Core\Project\main.cpp(545,33): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\Sebas\OneDrive\Desktop\GP\Project_Core\Project\main.cpp(544,33): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\Sebas\OneDrive\Desktop\GP\Project_Core\Project\main.cpp(574,33): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\Sebas\OneDrive\Desktop\GP\Project_Core\Project\main.cpp(573,33): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\Sebas\OneDrive\Desktop\GP\Project_Core\Project\main.cpp(572,33): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\Sebas\OneDrive\Desktop\GP\Project_Core\Project\main.cpp(602,33): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\Sebas\OneDrive\Desktop\GP\Project_Core\Project\main.cpp(601,33): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\Sebas\OneDrive\Desktop\GP\Project_Core\Project\main.cpp(600,33): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\Sebas\OneDrive\Desktop\GP\Project_Core\Project\main.cpp(631,30): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\Sebas\OneDrive\Desktop\GP\Project_Core\Project\main.cpp(630,30): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\Sebas\OneDrive\Desktop\GP\Project_Core\Project\main.cpp(629,30): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\Sebas\OneDrive\Desktop\GP\Project_Core\Project\main.cpp(659,41): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\Sebas\OneDrive\Desktop\GP\Project_Core\Project\main.cpp(658,41): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\Sebas\OneDrive\Desktop\GP\Project_Core\Project\main.cpp(657,41): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\Sebas\OneDrive\Desktop\GP\Project_Core\Project\main.cpp(685,37): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\Sebas\OneDrive\Desktop\GP\Project_Core\Project\main.cpp(684,37): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\Sebas\OneDrive\Desktop\GP\Project_Core\Project\main.cpp(683,37): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\Sebas\OneDrive\Desktop\GP\Project_Core\Project\main.cpp(712,41): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\Sebas\OneDrive\Desktop\GP\Project_Core\Project\main.cpp(711,35): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\Sebas\OneDrive\Desktop\GP\Project_Core\Project\main.cpp(710,35): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\Sebas\OneDrive\Desktop\GP\Project_Core\Project\main.cpp(739,42): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\Sebas\OneDrive\Desktop\GP\Project_Core\Project\main.cpp(738,36): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\Sebas\OneDrive\Desktop\GP\Project_Core\Project\main.cpp(737,36): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\Sebas\OneDrive\Desktop\GP\Project_Core\Project\main.cpp(766,42): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\Sebas\OneDrive\Desktop\GP\Project_Core\Project\main.cpp(765,36): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\Sebas\OneDrive\Desktop\GP\Project_Core\Project\main.cpp(764,36): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\Sebas\OneDrive\Desktop\GP\Project_Core\Project\main.cpp(793,41): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\Sebas\OneDrive\Desktop\GP\Project_Core\Project\main.cpp(792,35): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\Sebas\OneDrive\Desktop\GP\Project_Core\Project\main.cpp(791,35): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\Sebas\OneDrive\Desktop\GP\Project_Core\Project\main.cpp(1668,36): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+C:\Users\Sebas\OneDrive\Desktop\GP\Project_Core\Project\main.cpp(1668,22): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+C:\Users\Sebas\OneDrive\Desktop\GP\Project_Core\Project\main.cpp(1734,104): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+C:\Users\Sebas\OneDrive\Desktop\GP\Project_Core\Project\main.cpp(1734,59): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+C:\Users\Sebas\OneDrive\Desktop\GP\Project_Core\Project\main.cpp(1805,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sebas\OneDrive\Desktop\GP\Project_Core\Project\main.cpp(1834,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+LINK : warning LNK4098: defaultlib 'MSVCRTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  62 of 1992 functions ( 3.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    106 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Project.vcxproj -> C:\Users\Sebas\OneDrive\Desktop\GP\Project_Core\Project\x64\Release\Project.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

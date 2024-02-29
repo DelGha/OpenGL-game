@@ -1,0 +1,82 @@
+# Blender 4.0.2 MTL File: 'None'
+# www.blender.org
+
+newmtl BoltGunMAT
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd BoltGunMAT_BaseColor.png
+
+newmtl BoltPistolMAT
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd BoltPistolMAT_BaseColor.png
+
+newmtl CSM_Bolter_MagazineMAT
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd CSM_Bolter_MagazineMAT_BaseColor.png
+
+newmtl CSM_GrenadeMAT
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd CSM_Bolter_MagazineMAT_BaseColor.png
+
+newmtl CSM_KnifeMAT
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd CSM_KnifeMAT_BaseColor.png
+
+newmtl IronWariorArmourMAT
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd IronWariorArmourMAT_BaseColor.png
+
+newmtl IronWariorBackpack01MAT
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd IronWariorBackpack01MAT_BaseColor.png
+
+newmtl IronWarriorBodySuitMAT
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd IronWariorArmourMAT_BaseColor.png

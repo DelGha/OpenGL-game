@@ -1,0 +1,15 @@
+# Aspose.3D Wavefront OBJ Exporter
+# Copyright 2004-2023 Aspose Pty Ltd.
+# File created: 01/11/2024 14:52:43
+
+newmtl Material
+	Ka 0.05087609 0.05087609 0.05087609
+	Kd 0.8 0.8 0.8
+	Ke 0 0 0
+	illum 2
+	Ks 0.8 0.8 0.8
+	Ns 36
+	d 1
+	Tr 0
+	map_Kd Warhammer_DefaultMaterial_BaseColor.png
+	norm Warhammer_DefaultMaterial_Normal.png
